@@ -8,7 +8,7 @@ A functioning and up to date web browser.
 
 ## Author
 
-* **Shya...** 
+* **Shyayet...** 
 
 ## License
 
